@@ -1,2 +1,1 @@
-# deepika-birthday-wish
-A birthday celebration website for Deepika, made by Aditya Raj
+# just a normal project from my side I want to change 
